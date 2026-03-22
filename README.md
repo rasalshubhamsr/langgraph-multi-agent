@@ -8,7 +8,7 @@ Built as a public reference implementation inspired by enterprise-grade agentic 
 
 ## 🏗️ Architecture
 
-```
+```  
 Credit Application (Input)
           │
           ▼
