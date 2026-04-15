@@ -1,4 +1,4 @@
-# 🤖 LangGraph Multi-Agent Credit Analyser
+# 🤖 LangGraph Multi-Agent Credit Analyser 
 
 A **production-ready multi-agent pipeline** for autonomous credit analysis using LangGraph, GPT-4 Turbo, and LLM self-reflection loops — reducing hallucination rates by 42%.
 
